@@ -4,7 +4,7 @@
 
 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
 
-<img src="https://profile-counter.glitch.me/Niki404-Cyber/count.svg" />
+<img src="https://profile-counter.glitch.me/R1D07-007/count.svg" />
 
 </p>
 
@@ -26,3 +26,7 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=R1D07-007&show_icons=true&locale=en" alt="akxvau" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=R1D07-007&" alt="akxvau" /></p>
